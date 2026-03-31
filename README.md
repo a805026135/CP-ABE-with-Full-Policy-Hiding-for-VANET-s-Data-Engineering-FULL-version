@@ -1,4 +1,3 @@
-```markdown
 # CP-ABE for VANET - Full Policy Hiding, Revocation & Outsourced Decryption
 
 This repository contains the Java implementation (using JPBC) of the CP-ABE scheme proposed in the paper:
